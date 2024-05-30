@@ -1,0 +1,54 @@
+
+				** speed limit details
+
+					Speed limits in India vary by state and vehicle type. In April 2018, 
+					the Union Ministry of Road Transport and Highways fixed the maximum 
+					speed limit on expressways at 120 km/h, for national highways at 100 km/h, 
+					and for urban roads at 70 km/h for M1 category of vehicles. The M1 category 
+					includes most passenger vehicles which have fewer than 8 seats. State and 
+					local governments in India may fix lower speed limits than those prescribed 
+					by the Union Ministry.
+
+				** Maximum speed per hour in kilometers on roads in India
+
+
+			S.No.	Class of Motor Vehicles		Expressway with Access 		4 lane and above divided 		Road within	  other
+								control				carriageway (roads with Median 		Municipal 	  roads
+												strips/Dividers)			Limits
+
+		-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+			1.	Motor vehicles used for 
+				carriage of passengers 
+				comprising not more than 			120				100			  70		   70
+				eight seats in addition 
+				to the driver’s seat 
+				( M1 category vehicles)
+
+
+			2.	Motor vehicles used for 
+				carriage of passengers 
+				comprising nine or more 			100				90			  60		   60
+				seats in addition to the 
+				driver’s seat ( M2 and M3 
+				category Vehicles)
+
+
+			3.	More vehicles used for 
+				carriage of goods 				80				80			  60		   60
+				( All N category Vehicles)
+
+
+			4.	Motor Cycles					80				80			  60               60
+
+
+
+
+			5.	Quadricycle					-				60			  50   		   50			
+
+
+			6.	Three wheeled vehicles				-				50			  50               50
+
+
+			*  If permitted to ply on Expressway.
+

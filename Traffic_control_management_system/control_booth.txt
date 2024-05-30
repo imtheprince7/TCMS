@@ -1,0 +1,197 @@
+				
+				** problem
+					
+					* With the fast-expanding number of vehicles in smart cities,
+					 the management of road intersections and traffic congestion has grown 
+					 to be major problems
+
+				* methodologies such as vehicle counting, controlling process, and 
+					  evaluation of lanes keeping status in mind, this whole procedure is 
+					  implemented by taking the complete traffic network into an account 
+					  instead of just considering intersections.
+
+				* We need to assign a plan for traffic flow that has the least amount of 
+				  traffic congestion and vehicle waiting time.
+
+				** Alternate Routes 
+				
+					* Alternate routes play a significant role in traffic management systems by 
+					providing drivers with alternative paths to reach their destinations during 
+					periods of congestion, road closures, accidents, or other disruptions. 
+					
+					* The primary goals of using alternate routes in a traffic management system are to:
+
+						* Relieve Congestion
+
+						* Improve Travel Time 
+
+						* Enhance Traffic Flow
+						
+						* Handle Incidents and Road Closures
+						
+						* Distribute Traffic Load 
+						
+						* Emergency Response 
+
+						* Optimize Route Planning
+
+						* Reduce Environmental Impact
+						
+						* Enhance Driver Experience
+
+						* Traffic Data Collection
+					
+			** Different alternate routes are : 
+
+				* Suchitra to Kompally:
+
+					- Take diversion at Kompally towards Bahadurpally.
+					- Take diversion Suchitra towards Alwal Batanguda.
+					- Take diversion in Hyd. City at Military diary farm toward Bollaram.
+
+				* Godrej to Erragadda/Hyderabad City:
+
+					- Take diversion at Godrej towards Balanagar – Bowenpally to reach Secunderabad.
+
+					- Take diversion at Erragadda hospital towards Krishnakanth Park – Yousufguda village 
+					– Yousufguda check post – Krishnanagar – Road No. 10 Jubilee hills – 
+					  Road No. 36 Jubilee hills – Kavuri hills – Madhapur –
+					  Cyber towers – Kothaguda – Kondapur- Hafeezpet.
+						
+				* Godrej to Balanagar:
+
+					- Take diversion at Balangaar towards Fathenagar bridge – Right turn – Sanathnagar – Erragadda
+					- Take diversion at Godrej towards Moosapet, Bharathnagar – SR Nagar – Panjagudda.
+					- Take diversion at Narsapur – Quthbullapur – Right turn – towards Suchitra.
+
+				* Fathenagar Flyover Bridge:
+	
+					- Take diversion at Balanagar towards – Godrej  via Moosapet – Bharathnagar – Erragadda – SR Nagar.
+					- Take diversion at Balanagar towards Ferozguda via Bowenpally Secunderabad
+					- Take diversion at Erragadda Jn towards Moosapet – Godrej
+					- Take diversion at Balkampet in Hyderabad towards SR Nagar Right turn – Erragadda – Moosapet – Godrej.
+
+				* Gudenment and Narsapur Junction:
+					
+					* Take diversion at Gandimaisamma towards Bachupally – Miyapur.
+					* Take diversion at Narsapur Jn towards Godrej – JNTU – Miyapur.
+					* Take diversion at Narsapur Jn via Bowenpally towards Medchal road – take left at Kompally reach Bahadurpally
+			
+				* Godrej Junction:
+					
+					- Traffic coming from Balanagar, Narspur Jn. towards Godrej Jn. Diversion at IDA Prahanathnagar turning.
+
+						
+					- Traffic coming from Erragadda (City side) towards Godrej Jn. Diversion at Moosapet Jn. 
+					   towards Kukatpally municipality office leading towards Kaithlapur Road.
+
+						
+					- Traffic coming from JNTU side to go to Hyderabad city or Balanagar side
+					   take diversion at Naina Garden Jn. or VV Nagar Jn. towards Allwyn Colony & Sangeeth Nagar 
+					   from there the traffic will go to Balanagar Jn. via IDA Prashanthnagar and from 
+					   Jagathgirigutta to Narsapur Jn.
+
+				* JNTU Junction :
+					
+					- Traffic coming from Hyderabad City side to go to Bombay route take diversion at 
+					  GT Bank Jn. (UMCC Jn.) or at KPHB out gat (Remedy Hospital Jn.) via yellammabanda, 
+					  Gajulamarama Jeedimetla main road leading towards Gandimaisamma Jn. or from Remedy Hospital jn 
+					  to 3rd phase, 5th phase and leading road towards Malaysian town ship rotary from there traffic 
+					  will go to NH 9 Bombay road via Gokul Plots and Vasanthnagar colony and catch the NH 9 road after Nizampet Jn.
+	
+					- Traffic coming from Miyapur Jn. (Bombay side) to go to Hyderabad city take diversion at 
+					  IDA Bollaram (Miyapur Jn.) via Gandimaisamma Jn. towards Medchal Check post (NH 7 road) 
+					  or straight towards Narsapur and Balanagar Jn. via Medak Road.
+
+				* Kavuri Hills to Cyber Towers:
+
+					- Take diversion at Madhapur PS signal towards Doctors colony -Nectar garden 
+					  - I-Labs – Durgamcheruvu - Soft sole - Mind space - Cyber purls to reach Cyber Towers.
+					- Take diversion either at Cyber towers and Shilparamam to reach Jubilee hills
+
+				a)	Shilparamam – Left turn – Spinal road – Meridian school – Right turn – 
+				    New roads towards Bodabanda – Reddy’s Institute – Right turn – Image garden 
+					to reach Kavuri hills and jubilee hills.
+
+				b)	Cyber towers – Right turn – Cyber Purls – Mind space – Soft sole – Left turn –
+				    I-labs – Durgam cheruvu – Nectar garden – Dr. Reddy’s Lab – Road No. 45 Jubilee hills and onwards.
+				
+				
+				* Kothaguda to Kondapur:
+
+					- Take diversion at Hafeezpet via Miyapur – JNTUC – Right turn – 
+					  Malaysian town ship – Hi-tech Rly station – Cyber towers – Right turns – 
+					  NAC – Kothaguda – Gachibowli.
+
+					- Take diversion at Kothaguda towards Cyber towers – Left turn at Shilparamam – 
+					   Spinal road – Hi-tech Rly station – Malaysian Town ship – JNTUC onwards.
+				
+				* Events at SAAP Stadium, Gachibowli:
+
+					- Take diversion at Gachibowli towards ORR – via Nanakramguda – 
+					   Wipro Jn – Goulidoddi – Gopanpally tanda – Right turn – 
+					   to reach Nalagandla and BHEL.
+					- Take diversion at Nalagandla towards Gopanpally tanda – 
+					   Left turn – Goulidoddi – Wipro Nanakramguda – ORR.  Or Khajaguda
+					- Take diversion at HCU towards Masjeed banda – Botanical garden 
+					   to reach Hafeezpet or Gachibowli
+
+
+				* Miyapur Junction :
+					
+					- Traffic coming from Bombay side to go to Hyderabad city take diversion at 
+					  IDA Bollaram (Miyapur Jn.) via Gandimaisamma Jn. towards Medchal Check post 
+					  (NH 7 road) or straight towards Narsapur and Balanagar Jn. via Medak Road.
+
+						
+					- Traffic Coming from Bombay route  take right diversion at Hafeezpet  
+					   junction to go to Hyderabad City towards  Hafeexpet, Kondapur, Kothaguda Jn. 
+					   from there traffic will go to Hyderabad city via Cyber towers, Kavuri hills route  
+					   or via Gachibowli Y junction through old Bombay road (opp Rayadurgam PS) towards 
+					   Towlichowki and Mehdipatnam.
+
+						
+					- Traffic coming from Hyderabad city to go to Bombay route 
+					  take left diversion at JNTU junction towards hitech city (Cyber towers ) 
+					  from there traffic will take right diversion towards Kothaguda junction from 
+					  there traffic will go to Hafeezpet junction or towards BHEL. 
+					  (Lingamapally Junction) through Sherilingamally Municipality main road.
+
+
+				* Hafeezpet Junction:
+
+					- Traffic Coming from Hyderabad city side to go to Bombay route side take left diversion 
+					   at this junction towards Hafeezpet, Kondapur, Kothaguda Jn. Botanical Garden Jn. 
+					   from there take right side towards Masjid banda to BHEL ( RC Puram Jn.) via HCU Main Road.
+
+					- Traffic Coming from Bombay route  take right diversion from this junction towards Hafeezpet, 
+					  Kondapur, Kothaguda jn from there traffic will go to Hyderabad city via Cyber towers, 
+					  Kavuri hills route  or via Gachibowli Y junction through old Bombay road (opp Rayadurgam PS) 
+					  towards Towlichowki and Mehdipatnam.
+
+					- Ttraffic coming from Bombay route take right diversion at BHEL (Lingampally Jn.) 
+					   towards Gachibowli Y Junction through ols Lingampally route or Nallagandla Railway Gate 
+					   to go to Hyderabad city or Bangalore route (NH 7 road).
+
+
+				* RGI Airport PS Limits
+
+					- Kishanguda X road to Gachibowli through the Outer Ring Road( ORR).
+
+					- Hyderabad to Srisailam traffic may be diverted from Pahadisharif Kaman to Jalpally,
+					  Mamidipally and Old PS Pahadisharif of Srishailam Road.
+					- Srishailam traffic may be diverted to Hyderabad through Balapur.
+
+				* Rajendranagar PS Limits
+
+					* Attapur to Indra Reddy Statue:
+						
+						- Take diversion at Indra Reddy Statue towards Rajendranagar proceed towards 
+						Himayathsagar on ORR (Outer Ring Road)
+						
+						- Take diversion at  Mogalkanala in Hyderabad City proceed via Langerhouse 
+						  via Gandhighat – Tippukhan bridge reach APPA go on ORR (Outer Ring Road)
+						
+						- Take diversion at  Hyderguda towards Bahadurpura
+						
+						-Take diversion at  Aaramghar towards Bahadurpura via NPA.
