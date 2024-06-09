@@ -19,7 +19,7 @@ An advanced C++ application for managing vehicle records, implementing object-or
 The application offers a console-based interface for interacting with the vehicle management system. Users can select from various options to add, update, search, display, or delete vehicle records, as well as access additional resources like helpline information, traffic rules, challan details, speed limits, and traffic control booth information.
 <br>
 # Implementation
-<br><br>
+<br>
 <img src="first.gif">
 <br><br>
 <img src="second.gif">
