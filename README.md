@@ -1,7 +1,7 @@
 # Vehicle Management Platform
 An advanced C++ application for managing vehicle records, implementing object-oriented principles and singleton design patterns to ensure resource optimization and system reliability. The platform includes features for error handling, helpline integration, and adherence to traffic regulations, enhancing safety and accuracy in traffic management.
 <br><br>
-<b> Features </b>
+# Features
 <br>
 → Singleton Design Pattern <br>
 → Add Vehicle Record  <br>
